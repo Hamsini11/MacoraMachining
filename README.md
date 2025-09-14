@@ -51,7 +51,7 @@ Dataset originates from Deloitte Australia virtual internship program and is not
 1. Clone this repository
 2. Install required packages: `pip install pandas jupyter`
 3. Obtain dataset through Deloitte/Forage virtual internship program
-4. Open `MacoraManufacturingDataAnalytics.ipynb` in Jupyter
+4. Open the .ipynb file in Jupyter
 5. Run cells sequentially
 
 ## Contact
