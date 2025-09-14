@@ -25,8 +25,8 @@ Analysis reveals specific operational blind spots and provides actionable recomm
 - **Jupyter Notebook** - Analysis environment
 
 ## Repository Structure
-├── MacoraManufacturingDataAnalytics.ipynb    # Main analysis notebook
-├── README.md                                  # Project documentation
+├── MacoraManufacturingDataAnalytics.ipynb    # Main analysis notebook<br>
+├── README.md                                  # Project documentation<br>
 └── data/                                      # Data files (not included - see note below)
 
 ## Analysis Methodology
